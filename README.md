@@ -5,6 +5,12 @@ I'm **[Tao Huang](https://scholar.google.com/citations?user=TaM4e4wAAAAJ)**, a s
 ---
 
 ## News 📰
+**2026-7-1** 🎉 **[MixGRPO](https://arxiv.org/abs/2507.21802)** is accepted to [ECCV 2026](https://eccv.ecva.net/).
+
+**2026-6-11**  🎉 A new paper is available on arXiv: **[HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](https://arxiv.org/abs/2606.13289)**
+
+**2026-5-25**  🎉 A new paper is available on arXiv: **[Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models](https://arxiv.org/abs/2605.23522)**
+
 **2026-5-25**  🎉 A new paper is available on arXiv: **[Precise: SDE-Consistent Stochastic Sampling for RL Post-Training of Flow-Matching Models](https://arxiv.org/abs/2605.23522)**
 
 **2026-5-7**  🎉 A new paper is available on arXiv: **[DiffCap-Bench: A Comprehensive, Challenging, Robust Benchmark for Image Difference Captioning](https://arxiv.org/abs/2605.04503)**
